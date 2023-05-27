@@ -1,0 +1,21 @@
+{
+	"source": [
+		"/home/dcoa/Documents/eduNext/distro/style-dictionary/tokens/**/*.json"
+	],
+	"platforms": {
+		"css": {
+			"prefix": "pgn",
+			"transformGroup": "css",
+			"buildPath": "/home/dcoa/Documents/eduNext/distro/style-dictionary/build/bragi/",
+			"files": [
+				{
+					"destination": "_variables.css",
+					"format": "css/variables",
+					"options": {
+						"outputReferences": true
+					}
+				}
+			]
+		}
+	}
+}

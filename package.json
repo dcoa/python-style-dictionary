@@ -1,0 +1,14 @@
+{
+  "name": "python_with_node",
+  "version": "1.0.0",
+  "description": "this is an example how to use style diccionary and python ",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "style-dictionary": "^3.8.0"
+  }
+}
